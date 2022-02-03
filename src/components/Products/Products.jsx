@@ -169,26 +169,6 @@ export default function Products() {
             </button>
           </div>
         </div>
-        <div className="col">
-          <div className="card h-100">
-            <img
-              src="https://scontent.fmvd3-1.fna.fbcdn.net/v/t39.30808-6/273022589_391892866072410_6440695949534228448_n.png?_nc_cat=111&ccb=1-5&_nc_sid=730e14&_nc_ohc=4sCy7z1DcjEAX_A_cxw&_nc_ht=scontent.fmvd3-1.fna&oh=00_AT8ilDP4OY428RsS81Wcbx2pjKSZ7MlN4YwTskvwfX6QTg&oe=620017AA"
-              className="card-img-top"
-              alt="..."
-            />
-            <div className="card-body">
-              <h5 className="card-title">Card title</h5>
-              <p className="card-text">
-                This is a longer card with supporting text below as a natural
-                lead-in to additional content. This content is a little bit
-                longer.
-              </p>
-            </div>
-            <button type="button" className="btn btn-warning">
-              <i className="fas fa-cart-plus"></i> Agregar al carrito
-            </button>
-          </div>
-        </div>
       </div>
     </div>
   );

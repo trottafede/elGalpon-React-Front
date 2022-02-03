@@ -56,7 +56,7 @@ export default function Advertisements() {
           </div>
         </div>
 
-        <div className="container">
+        <div id="banners" className="container">
           <div className="row ">
             <div className="col-6">
               <div className="Container">

@@ -39,6 +39,13 @@
     background-color: rgb(20, 4, 85);
   }
 
+  #banners {
+    margin-top: 100px;
+  }
+  #Advertisements {
+    margin-top: 100px;
+  }
+
   #Advertisements p {
     text-align: center;
     font-weight: bold;
