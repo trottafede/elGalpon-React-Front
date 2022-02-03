@@ -1,14 +1,20 @@
 /* Extra small devices (portrait phones, less than 576px) */
 @media (max-width: 575.98px) {
+  header {
+    margin-top: 100px;
+  }
   header img {
     display: none;
   }
 }
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) and (max-width: 767.98px) {
+  header {
+    margin-top: 100px;
+  }
+
   header img {
-    height: auto;
-    width: 100%;
+    display: none;
   }
 }
 

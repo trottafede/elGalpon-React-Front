@@ -5,26 +5,26 @@ import React from "react";
 export default function Footer() {
   return (
     <footer>
-      <div class="container">
-        <div class="row">
-          <div class="col-sm-12 col-md-12 col-lg-4 center-footer MB-20">
+      <div className="container">
+        <div className="row">
+          <div className="col-sm-12 col-md-12 col-lg-4 center-footer MB-20">
             <div>
               <h5>Autoservice El Galpón</h5>
               <p>Contáctanos en las redes</p>
-              <div class="center-footer">
-                <i class="fab fa-instagram"></i>
-                <i class="fab fa-whatsapp"></i>
-                <i class="fab fa-facebook"></i>
-                <i class="fab fa-twitter"></i>
+              <div className="center-footer">
+                <i className="fab fa-instagram"></i>
+                <i className="fab fa-whatsapp"></i>
+                <i className="fab fa-facebook"></i>
+                <i className="fab fa-twitter"></i>
               </div>
             </div>
           </div>
-          <div class="col-sm-12 col-md-12 col-lg-4 footer-group1">
+          <div className="col-sm-12 col-md-12 col-lg-4 footer-group1">
             <div>
-              <div class="mb-2">
+              <div className="mb-2">
                 <h5>Productos</h5>
               </div>
-              <ul class="list-unstyled">
+              <ul className="list-unstyled">
                 <li>
                   <a href="/">Frutas</a>
                 </li>
@@ -44,12 +44,12 @@ export default function Footer() {
             </div>
           </div>
 
-          <div class="col-sm-12 col-md-4 footer-group1">
+          <div className="col-sm-12 col-md-4 footer-group1">
             <div>
-              <div class="mb-2">
+              <div className="mb-2">
                 <h5>Productos</h5>
               </div>
-              <ul class="list-unstyled">
+              <ul className="list-unstyled">
                 <li>
                   <a href="/">Frutas</a>
                 </li>
@@ -70,20 +70,20 @@ export default function Footer() {
           </div>
         </div>
 
-        <div class="row">
-          <div class="col-sm-12">
+        <div className="row">
+          <div className="col-sm-12">
             <hr />
           </div>
         </div>
 
-        <div class="row center-footer">
-          <div class="col-sm-12 MT-20">
+        <div className="row center-footer">
+          <div className="col-sm-12 MT-20">
             <div>
               <p>Copyright your website 2021</p>
             </div>
           </div>
 
-          <div class="col-sm-12">
+          <div className="col-sm-12">
             <div>
               <p>Privacy Policy · Terms & Conditions</p>
             </div>
